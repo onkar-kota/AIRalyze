@@ -50,9 +50,7 @@ Sample images
 - Using a pretrained (CNN) model to output a transmission map.
 - Run the transmission map on a convolutional neural network module and output a prediction.
 
-<a href="https://ibb.co/TM9vrpt"><img src="https://i.ibb.co/ch4gxMQ/cnn.png" alt="cnn" border="0"></a><br /><a target='_blank' href='https://imgbb.com/'>anonymous picture hosting</a><br />
-
-[App video.mp4](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/37b7b46b-1156-43ee-a0ea-380b3ddb7454/App_video.mp4)
+<a href="https://ibb.co/TM9vrpt"><img src="https://i.ibb.co/ch4gxMQ/cnn.png" alt="cnn" border="0"></a><br /><a target='_blank' href='https://imgbb.com/'></a><br />
 
 ## 7. Conclusion
 
