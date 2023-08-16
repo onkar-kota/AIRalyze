@@ -36,11 +36,11 @@ Dataset contains two files and related sub-files
     
 Dataset segregation
 
-![Untitled](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/e23afb5d-8530-4b15-b34a-f41ccba8f784/Untitled.png)
+<a href="https://ibb.co/HnKbQDD"><img src="https://i.ibb.co/SR6MpXX/image-seg.png" alt="image-seg" border="0"></a>
 
 Sample images
 
-![Untitled](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/ff3a9150-d1ce-4958-8cbc-8041db01d8ab/Untitled.png)
+<a href="https://ibb.co/W5FpTqq"><img src="https://i.ibb.co/jfGZpBB/sample.png" alt="sample" border="0"></a>
 
 ## 5. Mapping the real-world problem to a Machine learning Problem
 
@@ -50,7 +50,7 @@ Sample images
 - Using a pretrained (CNN) model to output a transmission map.
 - Run the transmission map on a convolutional neural network module and output a prediction.
 
-  ![Untitled](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/3f808056-680d-47e6-ad61-c822370a0342/Untitled.png)
+<a href="https://ibb.co/TM9vrpt"><img src="https://i.ibb.co/ch4gxMQ/cnn.png" alt="cnn" border="0"></a><br /><a target='_blank' href='https://imgbb.com/'>anonymous picture hosting</a><br />
 
 [App video.mp4](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/37b7b46b-1156-43ee-a0ea-380b3ddb7454/App_video.mp4)
 
